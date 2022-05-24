@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tarea/static/css/main.21fda39d.css",
+    "main.js": "/react-tarea/static/js/main.a881d12b.js",
+    "static/js/787.d6cb1aba.chunk.js": "/react-tarea/static/js/787.d6cb1aba.chunk.js",
+    "index.html": "/react-tarea/index.html",
+    "main.21fda39d.css.map": "/react-tarea/static/css/main.21fda39d.css.map",
+    "main.a881d12b.js.map": "/react-tarea/static/js/main.a881d12b.js.map",
+    "787.d6cb1aba.chunk.js.map": "/react-tarea/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fda39d.css",
+    "static/js/main.a881d12b.js"
+  ]
+}
